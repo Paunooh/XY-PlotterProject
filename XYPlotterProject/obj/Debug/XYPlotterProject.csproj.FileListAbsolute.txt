@@ -1,0 +1,14 @@
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\bin\Debug\XYPlotterProject.exe.config
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\bin\Debug\XYPlotterProject.exe
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\bin\Debug\XYPlotterProject.pdb
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.csprojResolveAssemblyReference.cache
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.Dashboard.resources
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.Properties.Resources.resources
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.csproj.GenerateResource.Cache
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.exe
+c:\users\pauno\documents\visual studio 2015\Projects\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.pdb
+C:\Users\Pauno\Documents\Visual Studio 2015\Projects\XYPlotterProject\XYPlotterProject\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Pauno\Documents\Visual Studio 2015\Projects\XYPlotterProject\XYPlotterProject\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Eetu\Desktop\XYPlotterProject\XYPlotterProject\bin\Debug\XYPlotterProject.exe.config
+C:\Users\Eetu\Desktop\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.exe
+C:\Users\Eetu\Desktop\XYPlotterProject\XYPlotterProject\obj\Debug\XYPlotterProject.pdb
